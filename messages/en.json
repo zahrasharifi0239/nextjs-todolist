@@ -1,0 +1,10 @@
+{
+  "TodoPage": {
+    "title": "ToDo List",
+    "emptyList": "List is empty",
+    "placeholder": "title...",
+    "error": "The title of the task is required",
+    "endDate": "End Date",
+    "startDate": "Start Date"
+  }
+}
