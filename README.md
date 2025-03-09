@@ -45,7 +45,7 @@ Visit your app at http://localhost:3000! 🎉
 ### 🌐 Demo
 
 You can check out a live demo of this project deployed on Vercel:
-👉 [Live Demo] https://nextjs-todolist-pearl.vercel.app/
+👉 [Live Demo] https://nextjs-todolist-rust.vercel.app/
 
 ---
 
