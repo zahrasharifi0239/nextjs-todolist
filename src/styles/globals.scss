@@ -1,0 +1,29 @@
+@use "./theme" as *;
+@use "./toastify";
+@use "./font";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background: var(--background);
+  --scroll: -5;
+  -webkit-backface-visibility: hidden;
+  -moz-backface-visibility: hidden;
+  -ms-backface-visibility: hidden;
+  font-family: Yekan;
+  color: var(--font-regular);
+}
+
+/* English */
+:lang(en) {
+  font-family: var(--font-geist-sans), serif;
+}
+:lang(fa) {
+  font-family: Yekan;
+}
+html[dir="rtl"] {
+  direction: rtl;
+  text-align: right;
+  font-family: Yekan;
+}

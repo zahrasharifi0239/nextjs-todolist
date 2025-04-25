@@ -1,0 +1,10 @@
+@layer base {
+  html[data-theme="dark"] {
+    --background: #1e1e1e;
+    --background-component: #2c2c2c;
+    --primary: #4a90e2;
+    --secondary: #3a3f4b;
+
+    --font-regular: #ffffff;
+  }
+}
