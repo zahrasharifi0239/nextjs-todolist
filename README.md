@@ -10,7 +10,6 @@ Welcome to the Next.js Todo List app.
 - 🎨 Tailwind CSS with Sass : Build stunning, responsive UIs rapidly using Tailwind's utility-first approach, with the flexibility of Sass for advanced styling.
 - 🖍️ Multi-Theme Support : Easily toggle between light, dark, or custom themes to enhance the user experience.
 - 🈴 Multi-Language Support : Integrate internationalization with `next-intl for a global-ready application.
-- 📝 React Hook Form : Simplify form validation and management with this lightweight library.
 - 🔒 TypeScript : Ensure your codebase is reliable, scalable, and type-safe with TypeScript.
 - 🐾 Husky & Commitlint : Maintain a clean Git history and enforce commit standards for better collaboration.
 - ⚙️ Pre-configured Linting & Formatting : Maintain a clean and consistent codebase effortlessly with Biome, a unified toolchain for linting, formatting, and organizing imports.
@@ -45,7 +44,7 @@ Visit your app at http://localhost:3000! 🎉
 ### 🌐 Demo
 
 You can check out a live demo of this project deployed on Vercel:
-👉 [Live Demo] https://nextjs-todolist.vercel.app/
+👉 [Live Demo] https://nextjs-todoslist.vercel.app/
 
 ---
 
